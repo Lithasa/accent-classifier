@@ -32,24 +32,25 @@ requests                    # For making HTTP requests (if needed in future)
 📦 Setup Instructions
 1. Clone the Repository
 bash
-   git clone https://github.com/your-username/accent-classifier.git
-   cd accent-classifier
+   - git clone https://github.com/your-username/accent-classifier.git
+   - cd accent-classifier
    
 3.  Create a Virtual Environment
-python -m venv venv
-source venv/bin/activate       # On macOS/Linux
-venv\Scripts\activate          # On Windows
+ - python -m venv venv
+ - source venv/bin/activate       # On macOS/Linux
+ - venv\Scripts\activate          # On Windows
 
 4. Install the Dependencies
-   pip install -r requirements.txt
+    - pip install -r requirements.txt
    
 5. if pip itself is outdated, update it first:
-         python -m pip install --upgrade pip   
+    - python -m pip install --upgrade pip   
     
 🎬 Running the App
 bash
-    streamlit run app.py
+     - streamlit run app.py
 The app will open in your default web browser at http://localhost:8501.
+
 
 
 ✅ Status
