@@ -36,9 +36,9 @@ bash
    - cd accent-classifier
    
 3.  Create a Virtual Environment
- - python -m venv venv
- - source venv/bin/activate       # On macOS/Linux
- - venv\Scripts\activate          # On Windows
+   - python -m venv venv
+   - source venv/bin/activate       # On macOS/Linux
+   - venv\Scripts\activate          # On Windows
 
 4. Install the Dependencies
     - pip install -r requirements.txt
