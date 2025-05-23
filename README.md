@@ -1,4 +1,4 @@
-# accent-classifier
+# 🎤 English Accent Classifier
 
 The Accent Classifier is a Python-based tool that accurately detects and classifies English accents from video URLs. It extracts audio from the given video, processes the speech, and uses a machine learning model to identify the regional accent (e.g., American, British, Australian, etc.).
 
@@ -13,6 +13,8 @@ The Accent Classifier is a Python-based tool that accurately detects and classif
 
  - Outputs the detected accent with high confidence
 
+🛠️ Requirements
+   - Make sure you have Python 3.8+ installed.
 
 ✅ Required Packages
 Below is the final requirements.txt content:
