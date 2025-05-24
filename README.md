@@ -32,7 +32,7 @@ requests                    # For making HTTP requests (if needed in future)
 📦 Setup Instructions
 1. Clone the Repository
 bash
-   - git clone https://github.com/your-username/accent-classifier.git
+   - git clone https://github.com/lithasa/accent-classifier.git
    - cd accent-classifier
    
 3.  Create a Virtual Environment
